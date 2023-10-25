@@ -1,8 +1,8 @@
 # SvelteKit Template with Tailwind CSS and DaisyUI
 
-```markdown
-A SvelteKit project template that comes pre-configured with Tailwind CSS and DaisyUI for rapid web development.
-```
+
+> A SvelteKit project template that comes pre-configured with Tailwind CSS and DaisyUI for rapid web development.
+
 
 ## Installation
 
