@@ -1,38 +1,51 @@
-# create-svelte
+# SvelteKit Template with Tailwind CSS and DaisyUI
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+```markdown
+A SvelteKit project template that comes pre-configured with Tailwind CSS and DaisyUI for rapid web development.
 ```
 
-## Developing
+## Installation
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/DDuran19/sveltekit-daisyui-template.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd your-sveltekit-template
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+To start the development server, run:
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+This will launch your SvelteKit project with live reloading and automatic compilation.
 
-To create a production version of your app:
+## Customization
 
-```bash
-npm run build
-```
+You can customize the Tailwind CSS and DaisyUI settings by modifying the respective configuration files in the project.
 
-You can preview the production build with `npm run preview`.
+## Contributing
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+If you'd like to contribute to this project, please open an issue or submit a pull request on GitHub.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions or feedback, you can reach out to me at denverjames.duran22@outlook.com.
