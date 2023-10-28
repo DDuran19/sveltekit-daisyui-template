@@ -9,6 +9,6 @@ node_modules
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-# For files that you dont want included, you should add .test
-# Example: try.test.html
-*.test.*
+# For files that you dont want included, you should add .temp
+# Example: try.temp.html
+*.temp.*
