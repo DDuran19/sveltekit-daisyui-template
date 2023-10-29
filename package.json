@@ -1,7 +1,7 @@
 {
 	"name": "sveltekit-daisy-ui",
 	"description": "A SvelteKit app using DaisyUI and Svelte-Ux assembled by DDuran19.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"scripts": {
 		"create": "node create-sveltekit-daisy-ui.js",
 		"dev": "vite dev --host",
