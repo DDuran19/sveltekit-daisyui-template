@@ -8,6 +8,7 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+pnpm-lock.yaml
 
 # For files that you dont want included, you should add .temp
 # Example: try.temp.html
