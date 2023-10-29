@@ -1,8 +1,9 @@
 {
 	"name": "sveltekit-daisy-ui",
 	"description": "A SvelteKit app using DaisyUI and Svelte-Ux assembled by DDuran19.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"scripts": {
+		"create": "node create-sveltekit-daisy-ui.js",
 		"dev": "vite dev --host",
 		"build": "vite build",
 		"preview": "vite preview",
@@ -27,6 +28,7 @@
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte": "^2.30.0",
+		"execa": "^8.0.1",
 		"postcss": "^8.4.31",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.10.1",
